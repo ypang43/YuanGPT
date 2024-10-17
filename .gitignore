@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Environment and other files
+.env
